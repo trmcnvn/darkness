@@ -2,6 +2,8 @@
 
 A personal darker flavour of [Plastic](https://github.com/will-stone/plastic).
 
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trmcnvn.darkness-theme)
+
 ## License
 
 MIT License

@@ -4,6 +4,10 @@
     "description": "Dark theme",
     "version": "0.0.1",
     "publisher": "trmcnvn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/trmcnvn/darkness"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
