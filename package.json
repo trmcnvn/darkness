@@ -1,0 +1,22 @@
+{
+    "name": "darkness-theme",
+    "displayName": "darkness",
+    "description": "Dark theme",
+    "version": "0.0.1",
+    "publisher": "trmcnvn",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkness",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkness-color-theme.json"
+            }
+        ]
+    }
+}
