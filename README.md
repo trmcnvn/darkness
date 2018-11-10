@@ -1,12 +1,6 @@
 # Darkness
 
-A personal darker flavour of [https://github.com/will-stone/plastic](Plastic).
-
-## Usage
-
-This is a theme for Visual Studio Code.
-
-You can install the theme [here]().
+A personal darker flavour of [Plastic](https://github.com/will-stone/plastic).
 
 ## License
 
