@@ -2,6 +2,10 @@
 
 A personal darker flavour of [Plastic](https://github.com/will-stone/plastic).
 
+![](https://i.imgur.com/UaAs9ES.png)
+
+_The font used in the screenshot is [Hack](https://github.com/source-foundry/Hack)._
+
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trmcnvn.darkness-theme)
 
 ## License

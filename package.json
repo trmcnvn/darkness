@@ -1,8 +1,8 @@
 {
     "name": "darkness-theme",
     "displayName": "darkness",
-    "description": "Dark theme",
-    "version": "0.0.1",
+    "description": "A personal darker flavour of Plastic.",
+    "version": "0.0.2",
     "publisher": "trmcnvn",
     "repository": {
         "type": "git",
