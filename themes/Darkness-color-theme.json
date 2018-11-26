@@ -153,8 +153,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#5F6672",
-				"fontStyle": "italic bold"
+				"foreground": "#5F6672"
 			}
 		},
 		{
@@ -219,8 +218,7 @@
 				"markup.inline"
 			],
 			"settings": {
-				"foreground": "#98C379",
-				"fontStyle": "italic"
+				"foreground": "#98C379"
 			}
 		},
 		{
@@ -258,7 +256,6 @@
 		{
 			"name": "italic",
 			"scope": [
-				"comment",
 				"markup.italic",
 				"punctuation.definition.italic"
 			],
