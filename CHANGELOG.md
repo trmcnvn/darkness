@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 0.1.0 - 2018-12-08
+### Changed
+- Using default colours for diff view
+- Matching status bar colour with theme
+
 ## 0.0.3 - 2018-11-27
 ### Changed
 - Remove italics on comments & strings
