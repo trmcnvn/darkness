@@ -219,7 +219,8 @@
 			"name": "strings",
 			"scope": [
 				"string",
-				"markup.inline"
+				"markup.inline",
+				"entity.name.import.go"
 			],
 			"settings": {
 				"foreground": "#98C379"
