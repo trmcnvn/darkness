@@ -2,6 +2,8 @@
 
 A very dark theme with syntax colours based off Will Stone's [Plastic](https://github.com/will-stone/plastic) theme.
 
+![](https://i.imgur.com/eTbQqM0.png)
+
 _The font used in the screenshot is [Iosevka Inaba](https://github.com/trmcnvn/iosevka-inaba)._
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trmcnvn.darkness-theme)
