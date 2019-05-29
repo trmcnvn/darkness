@@ -1,14 +1,12 @@
 # Darkness
 
-A personal darker flavour of [Plastic](https://github.com/will-stone/plastic).
+A very dark theme with syntax colours based off Will Stone's [Plastic](https://github.com/will-stone/plastic) theme.
 
-![](https://i.imgur.com/UaAs9ES.png)
-
-_The font used in the screenshot is [Hack](https://github.com/source-foundry/Hack)._
+_The font used in the screenshot is [Iosevka Inaba](https://github.com/trmcnvn/iosevka-inaba)._
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trmcnvn.darkness-theme)
 
-## License
+### License
 
 MIT License
 
